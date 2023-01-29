@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\deada\source\repos\Jan.1.27\Jan.1.27\Source.cpp(58,12): error C2109: subscript requires array or pointer type
+C:\Users\deada\source\repos\Jan.1.27\Jan.1.27\Source.cpp(62,10): error C2109: subscript requires array or pointer type
+C:\Users\deada\source\repos\Jan.1.27\Jan.1.27\Source.cpp(67,20): error C2109: subscript requires array or pointer type
