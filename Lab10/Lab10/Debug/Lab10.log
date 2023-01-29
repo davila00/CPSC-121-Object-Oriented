@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\deada\source\repos\Lab10\Lab10\Dice.h(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\deada\source\repos\Lab10\Lab10\Dice.h(58,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab10.vcxproj -> C:\Users\deada\source\repos\Lab10\Debug\Lab10.exe
